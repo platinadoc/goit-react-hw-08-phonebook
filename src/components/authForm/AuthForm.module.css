@@ -1,0 +1,38 @@
+.authForm__title {
+  font-size: 27px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.authForm {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.authForm__label {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.authForm__input {
+  width: 100%;
+  margin-left: 25px;
+  font-size: 18px;
+  padding: 5px 15px;
+  border-radius: 12px;
+  border: none;
+  outline-color: #5c68aa;
+}
+.authForm__btn {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.authForm__btn:hover {
+  background-color: rgb(179, 169, 169);
+  color: rgb(184, 191, 214);
+}

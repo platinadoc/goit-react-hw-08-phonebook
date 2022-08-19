@@ -1,0 +1,17 @@
+.linkGoBack {
+  background-color: rgb(184, 191, 214);
+  border: none;
+  text-decoration: none;
+  border-radius: 15px;
+  color: #3d3939;
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 3px 8px 6px 8px;
+  margin: 20px;
+}
+
+.linkGoBack:hover {
+  background-color: rgb(179, 169, 169);
+  color: rgb(184, 191, 214);
+}
