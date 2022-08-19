@@ -54,7 +54,6 @@ const AuthForm = ({ title, titleSubmit, register = false, cbSubmit }) => {
             type="text"
             name="email"
             value={email}
-            placeholder="example@mail.com"
             onChange={handleChange}
           />
         </label>
